@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алёна Честная](https://up.htmlacademy.ru/ecmascript/12/user/200224).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Мязитов](https://htmlacademy.ru/profile/id1164307).
 
 ---
 
